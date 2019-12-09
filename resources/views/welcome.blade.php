@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Taxis uu2
+                    Taxis uu
                 </div>
 
                 <div class="links">
